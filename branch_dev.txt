@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-I am branch
-=======
-I am f1
->>>>>>> f1
+I am branch   UUUUUU ion
+
