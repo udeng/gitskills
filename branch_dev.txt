@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am branch
+=======
+I am f1
+>>>>>>> f1
